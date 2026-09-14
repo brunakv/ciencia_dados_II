@@ -1,4 +1,7 @@
 # Sistematização - Ciencia de Dados II
+## Aluna: Bruna Kobayashi Vazami / Matricula: 72500330
+
+
 Projeto: Análise Exploratória, Modelagem Preditiva e Clusterização do Crédito Rural Brasileiro Utilizando Apache Spark
 
 Este projeto aplica técnicas de Big Data utilizando Python + PySpark para analisar dados públicos do Banco Central (SICOR) sobre crédito rural no Brasil.
