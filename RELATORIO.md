@@ -41,8 +41,3 @@ Projeto Crédito Rural Brasil com PySpark
    - Evolução positiva ao longo dos anos.  
 2. Limitações: dataset restrito a registros disponíveis via API; ausência de variáveis socioeconômicas complementares.  
 3. Próximos passos: integrar dados de produtividade agrícola, clima e políticas públicas para análises mais completas.  
-
-
-Limitações: dataset restrito a registros disponíveis via API; ausência de variáveis socioeconômicas complementares.
-
-Próximos passos: integrar dados de produtividade agrícola, clima e políticas públicas para análises mais completas.
